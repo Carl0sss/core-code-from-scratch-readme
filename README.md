@@ -3,7 +3,7 @@
 ## Hi, this is my README.
 ### Do you want to see the challenges I have solved?
 Check this out
-1. [Challenges week 1](https://www.example.com)
+1. [Challenges week 1](https://github.com/Carl0sss/core-code-from-scratch-readme/WEEK CHALLENGES/WEEK 1/)
 2. [Challenges week 2](https://www.example.com)
 3. [Challenges week 3](https://www.example.com)
 4. [Challenges week 4](https://www.example.com)
