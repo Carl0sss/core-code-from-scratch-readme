@@ -1,4 +1,5 @@
 # Geometry
+```
 1. Ask which volume is required (cube, pyramid or sphere)
 2. If we need a cube then:
 2.1 Ask the length of one side
@@ -15,3 +16,4 @@
 4.4 The value of the volume is defined as: 1/3 * baselength * base_width * height
 4.5 Print the value of the volume
 End
+```
