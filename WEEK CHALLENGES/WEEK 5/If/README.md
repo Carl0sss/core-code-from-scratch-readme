@@ -1,6 +1,6 @@
-## If sentence in JavaScript
+## If statement in JavaScript
 ---
-```
+```javascript
 let number1 = 1;
 let number2 = 2;
 let reply;
