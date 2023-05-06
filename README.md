@@ -7,7 +7,7 @@ Check this out
 2. [Challenges week 2](https://github.com/Carl0sss/core-code-from-scratch-readme/tree/main/WEEK%20CHALLENGES/WEEK%202)
 3. [Challenges week 3](https://www.example.com)
 4. [Challenges week 4](https://www.example.com)
-5. [Challenges week 5](https://www.example.com)
+5. [Challenges week 5](https://github.com/Carl0sss/core-code-from-scratch-readme/tree/main/WEEK%20CHALLENGES/WEEK%205)
 6. [Challenges week 6](https://www.example.com)
 7. [Challenges week 7](https://www.example.com)
 8. [Challenges week 8](https://www.example.com)
